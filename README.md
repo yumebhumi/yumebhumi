@@ -1,101 +1,194 @@
 <div align="center">
 
-# Bhumika Choudhary
+# 👋 Hey, I'm Bhumika Choudhary
 
-### Full-stack developer building AI-powered products with clear UX and practical engineering
+### ☕ Cold Coffee Enthusiast • 💻 Full Stack Developer • 🤖 AI Builder • 🇮🇳 Information Technology Undergraduate
 
-<p>
-  <a href="https://github.com/yumebhumi">
-    <img src="https://img.shields.io/badge/GitHub-yumebhumi-f8fafc?style=for-the-badge&logo=github&logoColor=111827&labelColor=f8fafc&color=e2e8f0" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20Products-0f172a?style=for-the-badge&logoColor=white&color=0f766e" alt="Focus" />
-  <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript%20%7C%20Go-0f172a?style=for-the-badge&logoColor=white&color=1f2937" alt="Stack" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F8FAFC&center=true&vCenter=true&width=900&lines=Building+AI-powered+products%2C+one+coffee+at+a+time.;Full+stack+developer+with+a+love+for+clean+UX+and+smart+systems.;Build.+Learn.+Ship.+Repeat." alt="Typing animation" />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=900&color=E2E8F0&center=true&vCenter=true&width=720&lines=I+like+building+useful+things.;Clean+interfaces.+Strong+systems.;Shipping+better+projects%2C+one+iteration+at+a+time." alt="Typing intro" />
-</p>
+<br />
+
+<a href="https://github.com/yumebhumi">
+  <img src="https://img.shields.io/badge/GitHub-yumebhumi-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://x.com/coldcoffeecoder">
+  <img src="https://img.shields.io/badge/X-@coldcoffeecoder-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=yumebhumi&style=for-the-badge&color=0f766e" alt="Profile views" />
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I build products that try to be both useful and well-finished. Most of my work sits between AI features, frontend experience, and backend systems that make those experiences reliable.
+I’m **Bhumika Choudhary**, a **B.Tech Information Technology undergraduate** building at the intersection of **full stack development**, **AI applications**, and **product thinking**. My public GitHub footprint across [`bhumika1534`](https://github.com/bhumika1534) and [`yumebhumi`](https://github.com/yumebhumi) shows a progression from JavaScript practice and early AI projects into more product-oriented work like **ResumeAnalyserr**, an AI-powered career workspace.
 
-<table>
-  <tr>
-    <td><strong>Focus</strong></td>
-    <td>Full-stack development, AI workflows, product building</td>
-  </tr>
-  <tr>
-    <td><strong>Working With</strong></td>
-    <td>React, Next.js, TypeScript, Go, PostgreSQL</td>
-  </tr>
-  <tr>
-    <td><strong>Currently Improving</strong></td>
-    <td>Backend depth, system design, stronger public projects</td>
-  </tr>
-  <tr>
-    <td><strong>Approach</strong></td>
-    <td>Clear UX, useful features, steady iteration</td>
-  </tr>
-</table>
+I work with **React.js, Next.js, Node.js, TypeScript, Firebase, MongoDB, PostgreSQL, and REST APIs**, and I enjoy turning practical ideas into polished software. I’m especially interested in **Gemini AI**, **OpenAI APIs**, agentic workflows, and building products that feel clean on the surface and reliable underneath. Alongside development, I keep sharpening my **DSA and problem-solving** skills to stay strong on fundamentals.
 
-## Toolbox
+For recruiters: I bring a mix of **frontend polish, backend thinking, AI product curiosity, and fast iteration**. I care about building software that is not just technically functional, but genuinely useful.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,go,postgres,git,github,vscode&theme=dark" alt="Skill icons" />
+## Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="220">
+        <strong>🚀 Building</strong><br />AI SaaS Products
+      </td>
+      <td align="center" width="220">
+        <strong>📚 Practicing</strong><br />DSA Problems
+      </td>
+      <td align="center" width="220">
+        <strong>🤖 Exploring</strong><br />Agentic AI
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="220">
+        <strong>🌐 Growing</strong><br />Full Stack Development
+      </td>
+      <td align="center" width="220">
+        <strong>☕ Fuel</strong><br />Cold Coffee
+      </td>
+      <td align="center" width="220">
+        <strong>🎯 Goal</strong><br />Useful Global Products
+      </td>
+    </tr>
+  </table>
+</div>
+
+## Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-06141B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-06141B?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-06141B?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06141B?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-06141B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%26%20Next.js-111827?style=flat-square&color=0f766e" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%26%20Go-111827?style=flat-square&color=1f2937" alt="Backend" />
-  <img src="https://img.shields.io/badge/Data-Postgres%20%26%20Drizzle-111827?style=flat-square&color=334155" alt="Data" />
-  <img src="https://img.shields.io/badge/Style-Clean%20and%20Purposeful-111827?style=flat-square&color=475569" alt="Style" />
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-06141B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-06141B?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Firebase-06141B?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/REST_APIs-06141B?style=for-the-badge&logo=fastapi&logoColor=14B8A6" alt="REST APIs" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-06141B?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-06141B?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firestore-06141B?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firestore" />
+  <img src="https://img.shields.io/badge/Pinecone-06141B?style=for-the-badge&logoColor=white&color=1E293B" alt="Pinecone" />
+</p>
+
+### AI
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-06141B?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-06141B?style=for-the-badge&logo=google&logoColor=8AB4F8" alt="Gemini" />
+  <img src="https://img.shields.io/badge/LangChain-06141B?style=for-the-badge&logoColor=white&color=0f766e" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Vector_Databases-06141B?style=for-the-badge&logoColor=white&color=334155" alt="Vector Databases" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-06141B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-06141B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-06141B?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Postman-06141B?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-06141B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
 </p>
 
 ## Featured Projects
 
-### [HireMe AI](https://github.com/yumebhumi/ResumeAnalyserr)
-AI-powered career workspace for resume analysis, GitHub review, and portfolio generation.
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🏎️ F1lytics</h3>
+        <p><strong>AI-powered Formula 1 analytics platform</strong> built to make race insights, driver trends, and performance breakdowns easier to explore.</p>
+        <p><strong>Stack:</strong> Next.js, TypeScript, APIs, AI-powered insights</p>
+        <p><strong>Impact:</strong> Turns motorsport data into a more interactive and fan-friendly intelligence layer.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>💼 AI Career OS</h3>
+        <p><strong>AI-powered career copilot</strong> designed to help users improve resumes, evaluate profiles, and make smarter career decisions.</p>
+        <p><strong>Stack:</strong> Next.js, TypeScript, PostgreSQL, Gemini AI, OpenAI APIs</p>
+        <p><strong>Impact:</strong> Converts scattered job-search tasks into a focused, recruiter-aware workflow.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🩺 Clinico</h3>
+        <p><strong>Healthcare platform</strong> connecting patients and professionals with AI-assisted discovery and support.</p>
+        <p><strong>Stack:</strong> Full stack web architecture, authentication, AI assistance, database-backed workflows</p>
+        <p><strong>Impact:</strong> Aims to simplify access, communication, and decision support in healthcare journeys.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🩸 Lifelink</h3>
+        <p><strong>Blood donation and request management platform</strong> with verified request workflows and donor matching.</p>
+        <p><strong>Stack:</strong> React.js, Node.js, Express.js, Firebase Firestore, Firebase Authentication, Vercel, Railway</p>
+        <p><strong>Impact:</strong> Reduces friction in urgent blood discovery through role-based workflows and location-aware matching.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- Built around an actual job-search workflow instead of one-off AI prompts
-- Analyzes resumes, reviews GitHub presence, and generates portfolio drafts
-- Combines product UX, auth, persistence, and AI output in one system
-- Stack: Next.js, TypeScript, Tailwind CSS, Clerk, Neon Postgres, Drizzle, Gemini
-
-## Build Style
-
-- Useful over flashy
-- Clear UX over clutter
-- Strong foundations over shortcuts
-- Products that solve a real workflow, not just a demo problem
-
-## GitHub Snapshot
+## GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yumebhumi&show_icons=true&hide_border=true&bg_color=00000000&title_color=f8fafc&text_color=cbd5e1&icon_color=14b8a6" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumebhumi&layout=compact&hide_border=true&bg_color=00000000&title_color=f8fafc&text_color=cbd5e1" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yumebhumi&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=F8FAFC&text_color=CBD5E1&icon_color=14B8A6" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumebhumi&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=F8FAFC&text_color=CBD5E1" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yumebhumi&hide_border=true&background=00000000&ring=14b8a6&fire=f59e0b&currStreakLabel=f8fafc&sideNums=cbd5e1&currStreakNum=f8fafc&sideLabels=94a3b8&dates=64748b" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=yumebhumi&theme=github-dark-blue&hide_border=true&background=00000000&ring=14B8A6&fire=F59E0B&currStreakLabel=F8FAFC" alt="GitHub streak" />
 </div>
 
-## Philosophy
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yumebhumi&bg_color=000000&color=CBD5E1&line=14B8A6&point=F59E0B&area=true&hide_border=true" alt="Activity graph" />
+</div>
 
-> Build things that are easy to use, hard to break, and worth coming back to.
+## Coding Profiles
 
-## Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/yumebhumi">
-    <img src="https://img.shields.io/badge/GitHub-yumebhumi-f8fafc?style=for-the-badge&logo=github&logoColor=111827&labelColor=f8fafc&color=e2e8f0" alt="GitHub badge" />
-  </a>
-  <a href="https://x.com/coldcoffeecoder">
-    <img src="https://img.shields.io/badge/X-@coldcoffeecoder-f8fafc?style=for-the-badge&logo=x&logoColor=111827&labelColor=f8fafc&color=e2e8f0" alt="X badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=yumebhumi&style=for-the-badge&color=0f766e" alt="Profile views" />
-</p>
+<a href="https://github.com/yumebhumi">
+  <img src="https://img.shields.io/badge/GitHub-yumebhumi-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<img src="https://img.shields.io/badge/LinkedIn-Bhumika_Choudhary-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn profile" />
+<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode profile" />
+<a href="https://x.com/coldcoffeecoder">
+  <img src="https://img.shields.io/badge/X-@coldcoffeecoder-111827?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
+</a>
+
+</div>
+
+## Fun Facts
+
+- ☕ I can debug better with coffee
+- 📚 I love books and anime
+- 🌍 I want to build products that can scale globally
+- 💡 I’m always learning something new
+- 🇯🇵 I’m learning Japanese
+
+## Quote
+
+<div align="center">
+
+> **Turning ideas into products and coffee into code.**
+
+</div>
+
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yumebhumi/yumebhumi/output/snake.svg" alt="Contribution snake animation" />
+</div>
