@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Bhumika Choudhary
+# yo, i'm bhumika — welcome to the chaos
 
 ### ☕ reading books, chasing dreams, building random things on the internet, and letting cold coffee influence far too many of my decisions.
 
