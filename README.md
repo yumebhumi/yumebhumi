@@ -112,17 +112,12 @@ For recruiters: I bring a mix of **frontend polish, backend thinking, AI product
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3>🏎️ F1lytics</h3>
-        <p><strong>AI-powered Formula 1 analytics platform</strong> built to make race insights, driver trends, and performance breakdowns easier to explore.</p>
-        <p><strong>Stack:</strong> Next.js, TypeScript, APIs, AI-powered insights</p>
-        <p><strong>Impact:</strong> Turns motorsport data into a more interactive and fan-friendly intelligence layer.</p>
-      </td>
-      <td width="50%" valign="top">
-        <h3>💼 AI Career OS</h3>
+        <h3>💼 HireMe AI</h3>
         <p><strong>AI-powered career copilot</strong> designed to help users improve resumes, evaluate profiles, and make smarter career decisions.</p>
         <p><strong>Stack:</strong> Next.js, TypeScript, PostgreSQL, Gemini AI, OpenAI APIs</p>
         <p><strong>Impact:</strong> Converts scattered job-search tasks into a focused, recruiter-aware workflow.</p>
       </td>
+      <td width="50%" valign="top"></td>
     </tr>
     <tr>
       <td width="50%" valign="top">
