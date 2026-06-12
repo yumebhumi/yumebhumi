@@ -126,12 +126,7 @@ For recruiters: I bring a mix of **frontend polish, backend thinking, AI product
         <p><strong>Stack:</strong> Full stack web architecture, authentication, AI assistance, database-backed workflows</p>
         <p><strong>Impact:</strong> Aims to simplify access, communication, and decision support in healthcare journeys.</p>
       </td>
-      <td width="50%" valign="top">
-        <h3>🩸 Lifelink</h3>
-        <p><strong>Blood donation and request management platform</strong> with verified request workflows and donor matching.</p>
-        <p><strong>Stack:</strong> React.js, Node.js, Express.js, Firebase Firestore, Firebase Authentication, Vercel, Railway</p>
-        <p><strong>Impact:</strong> Reduces friction in urgent blood discovery through role-based workflows and location-aware matching.</p>
-      </td>
+      <td width="50%" valign="top"></td>
     </tr>
   </table>
 </div>
