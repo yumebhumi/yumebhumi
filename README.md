@@ -132,6 +132,7 @@ Always happy to connect with builders, creators, and curious minds.
 
 - **Stack:** Next.js, TypeScript, PostgreSQL, Gemini AI, OpenAI APIs
 - **Impact:** Converts scattered job-search tasks into a focused, recruiter-aware workflow.
+- **Repo:** [github.com/yumebhumi/ResumeAnalyserr](https://github.com/yumebhumi/ResumeAnalyserr)
 
 ### ✈️ Rovara
 
