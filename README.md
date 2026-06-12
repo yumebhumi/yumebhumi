@@ -190,7 +190,7 @@ I’m consistently using LeetCode to improve my **DSA, problem-solving speed, an
 
 <div align="center">
   <a href="https://leetcode.com/u/yumebhumi/">
-    <img src="https://img.shields.io/badge/LeetCode-yumebhumi-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode profile" />
+    <img src="https://leetcard.jacoblin.cool/yumebhumi?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
   </a>
 </div>
 
