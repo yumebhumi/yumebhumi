@@ -135,7 +135,12 @@ Always happy to connect with builders, creators, and curious minds.
         <p><strong>Stack:</strong> Next.js, TypeScript, PostgreSQL, Gemini AI, OpenAI APIs</p>
         <p><strong>Impact:</strong> Converts scattered job-search tasks into a focused, recruiter-aware workflow.</p>
       </td>
-      <td width="50%" valign="top"></td>
+      <td width="50%" valign="top">
+        <h3>🛡️ Stree</h3>
+        <p><strong>Women's safety and support platform</strong> focused on anonymous crime reporting, safer navigation, and access to tech resources and community guidance.</p>
+        <p><strong>Stack:</strong> React, Tailwind CSS, Recoil, Leaflet, Node.js, Express, MongoDB, JWT, Zod</p>
+        <p><strong>Impact:</strong> Helps women identify safer areas through an interactive crime map while creating a more informed and supportive digital space.</p>
+      </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
