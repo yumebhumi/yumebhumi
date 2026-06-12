@@ -164,7 +164,9 @@ For recruiters: I bring a mix of **frontend polish, backend thinking, AI product
   <img src="https://img.shields.io/badge/GitHub-yumebhumi-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 <img src="https://img.shields.io/badge/LinkedIn-Bhumika_Choudhary-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn profile" />
-<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode profile" />
+<a href="https://leetcode.com/u/yumebhumi/">
+  <img src="https://img.shields.io/badge/LeetCode-yumebhumi-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode profile" />
+</a>
 <a href="https://x.com/coldcoffeecoder">
   <img src="https://img.shields.io/badge/X-@coldcoffeecoder-111827?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
 </a>
