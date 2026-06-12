@@ -145,10 +145,11 @@ Always happy to connect with builders, creators, and curious minds.
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3>🩺 Clinico</h3>
-        <p><strong>Healthcare platform</strong> connecting patients and professionals with AI-assisted discovery and support.</p>
-        <p><strong>Stack:</strong> Full stack web architecture, authentication, AI assistance, database-backed workflows</p>
-        <p><strong>Impact:</strong> Aims to simplify access, communication, and decision support in healthcare journeys.</p>
+        <h3>✈️ Rovara</h3>
+        <p><strong>AI travel planner</strong> built to generate multi-day itineraries, trip budgets, and recommendations with a smoother planning flow for modern travelers.</p>
+        <p><strong>Stack:</strong> Next.js, React, TypeScript, Clerk, Prisma, PostgreSQL, OpenAI, Mapbox, OpenWeather, Google Places</p>
+        <p><strong>Impact:</strong> Turns messy trip planning into a structured experience with saved trips, rich travel context, and share/PDF utilities.</p>
+        <p><strong>Repo:</strong> <a href="https://github.com/yumebhumi/rovara">github.com/yumebhumi/rovara</a></p>
       </td>
       <td width="50%" valign="top"></td>
     </tr>
