@@ -20,7 +20,7 @@
 
 ---
 
-## About Me
+## Character Backstory
 
 I’m **Bhumika Choudhary**, a **B.Tech Information Technology undergraduate** building at the intersection of **full stack development**, **AI applications**, and **product thinking**. My public GitHub footprint across [`bhumika1534`](https://github.com/bhumika1534) and [`yumebhumi`](https://github.com/yumebhumi) shows a progression from JavaScript practice and early AI projects into more product-oriented work like **ResumeAnalyserr**, an AI-powered career workspace.
 
