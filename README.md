@@ -126,35 +126,28 @@ Always happy to connect with builders, creators, and curious minds.
 
 ## Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>💼 HireMe AI</h3>
-        <p><strong>AI-powered career copilot</strong> designed to help users improve resumes, evaluate profiles, and make smarter career decisions.</p>
-        <p><strong>Stack:</strong> Next.js, TypeScript, PostgreSQL, Gemini AI, OpenAI APIs</p>
-        <p><strong>Impact:</strong> Converts scattered job-search tasks into a focused, recruiter-aware workflow.</p>
-      </td>
-      <td width="50%" valign="top">
-        <h3>🛡️ Stree</h3>
-        <p><strong>Women's safety and support platform</strong> focused on anonymous crime reporting, safer navigation, and access to tech resources and community guidance.</p>
-        <p><strong>Stack:</strong> React, Tailwind CSS, Recoil, Leaflet, Node.js, Express, MongoDB, JWT, Zod</p>
-        <p><strong>Impact:</strong> Helps women identify safer areas through an interactive crime map while creating a more informed and supportive digital space.</p>
-        <p><strong>Live:</strong> <a href="https://stree-project-iota.vercel.app">stree-project-iota.vercel.app</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>✈️ Rovara</h3>
-        <p><strong>AI travel planner</strong> built to generate multi-day itineraries, trip budgets, and recommendations with a smoother planning flow for modern travelers.</p>
-        <p><strong>Stack:</strong> Next.js, React, TypeScript, Clerk, Prisma, PostgreSQL, OpenAI, Mapbox, OpenWeather, Google Places</p>
-        <p><strong>Impact:</strong> Turns messy trip planning into a structured experience with saved trips, rich travel context, and share/PDF utilities.</p>
-        <p><strong>Repo:</strong> <a href="https://github.com/yumebhumi/rovara">github.com/yumebhumi/rovara</a></p>
-      </td>
-      <td width="50%" valign="top"></td>
-    </tr>
-  </table>
-</div>
+### 💼 HireMe AI
+
+**AI-powered career copilot** designed to help users improve resumes, evaluate profiles, and make smarter career decisions.
+
+- **Stack:** Next.js, TypeScript, PostgreSQL, Gemini AI, OpenAI APIs
+- **Impact:** Converts scattered job-search tasks into a focused, recruiter-aware workflow.
+
+### ✈️ Rovara
+
+**AI travel planner** built to generate multi-day itineraries, trip budgets, and recommendations with a smoother planning flow for modern travelers.
+
+- **Stack:** Next.js, React, TypeScript, Clerk, Prisma, PostgreSQL, OpenAI, Mapbox, OpenWeather, Google Places
+- **Impact:** Turns messy trip planning into a structured experience with saved trips, rich travel context, and share/PDF utilities.
+- **Repo:** [github.com/yumebhumi/rovara](https://github.com/yumebhumi/rovara)
+
+### 🛡️ Stree
+
+**Women's safety and support platform** focused on anonymous crime reporting, safer navigation, and access to tech resources and community guidance.
+
+- **Stack:** React, Tailwind CSS, Recoil, Leaflet, Node.js, Express, MongoDB, JWT, Zod
+- **Impact:** Helps women identify safer areas through an interactive crime map while creating a more informed and supportive digital space.
+- **Live:** [stree-project-iota.vercel.app](https://stree-project-iota.vercel.app)
 
 ## GitHub Analytics
 
