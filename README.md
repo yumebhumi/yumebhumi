@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Bhumika Choudhary
 
-### ☕ Cold Coffee Enthusiast • 💻 Full Stack Developer • 🤖 AI Builder • 🇮🇳 Information Technology Undergraduate
+### ☕ reading books, chasing dreams, building random things on the internet, and letting cold coffee influence far too many of my decisions.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F8FAFC&center=true&vCenter=true&width=900&lines=Building+AI-powered+products%2C+one+coffee+at+a+time.;Full+stack+developer+with+a+love+for+clean+UX+and+smart+systems.;Build.+Learn.+Ship.+Repeat." alt="Typing animation" />
 
