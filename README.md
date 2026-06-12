@@ -174,7 +174,7 @@ I’m consistently using LeetCode to improve my **DSA, problem-solving speed, an
   </a>
 </div>
 
-## Coding Profiles
+## Profiles
 
 <div align="center">
 
