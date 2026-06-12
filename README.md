@@ -146,6 +146,16 @@ For recruiters: I bring a mix of **frontend polish, backend thinking, AI product
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yumebhumi&bg_color=000000&color=CBD5E1&line=14B8A6&point=F59E0B&area=true&hide_border=true" alt="Activity graph" />
 </div>
 
+## LeetCode Progress
+
+I’m consistently using LeetCode to improve my **DSA, problem-solving speed, and interview thinking**. It’s a big part of how I strengthen fundamentals alongside product building.
+
+<div align="center">
+  <a href="https://leetcode.com/u/yumebhumi/">
+    <img src="https://leetcard.jacoblin.cool/yumebhumi?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+  </a>
+</div>
+
 ## Coding Profiles
 
 <div align="center">
