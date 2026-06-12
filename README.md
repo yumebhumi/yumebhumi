@@ -158,7 +158,7 @@ Always happy to connect with builders, creators, and curious minds.
       <br /><br />
       <strong>Stack:</strong> Full stack web app, authentication, AI assistance, database-backed workflows
       <br />
-      <strong>Status:</strong> Under wraps
+      <strong>Status:</strong> Private build
     </td>
   </tr>
   <tr>
