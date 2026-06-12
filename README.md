@@ -126,36 +126,38 @@ Always happy to connect with builders, creators, and curious minds.
 
 ## Featured Projects
 
-### 💼 HireMe AI
-
-**AI-powered career copilot** designed to help users improve resumes, evaluate profiles, and make smarter career decisions.
-
-- **Stack:** Next.js, TypeScript, PostgreSQL, Gemini AI, OpenAI APIs
-- **Impact:** Converts scattered job-search tasks into a focused, recruiter-aware workflow.
-- **Repo:** [github.com/yumebhumi/ResumeAnalyserr](https://github.com/yumebhumi/ResumeAnalyserr)
-
-### ✈️ Rovara
-
-**AI travel planner** built to generate multi-day itineraries, trip budgets, and recommendations with a smoother planning flow for modern travelers.
-
-- **Stack:** Next.js, React, TypeScript, Clerk, Prisma, PostgreSQL, OpenAI, Mapbox, OpenWeather, Google Places
-- **Impact:** Turns messy trip planning into a structured experience with saved trips, rich travel context, and share/PDF utilities.
-- **Repo:** [github.com/yumebhumi/rovara](https://github.com/yumebhumi/rovara)
-
-### 🩺 Clinico
-
-**Healthcare platform** designed to connect patients and professionals with a smoother digital experience and AI-assisted support.
-
-- **Stack:** Full stack web architecture, authentication, AI assistance, database-backed workflows
-- **Impact:** Aims to simplify healthcare access, communication, and decision support in one connected product flow.
-
-### 🛡️ Stree
-
-**Women's safety and support platform** focused on anonymous crime reporting, safer navigation, and access to tech resources and community guidance.
-
-- **Stack:** React, Tailwind CSS, Recoil, Leaflet, Node.js, Express, MongoDB, JWT, Zod
-- **Impact:** Helps women identify safer areas through an interactive crime map while creating a more informed and supportive digital space.
-- **Live:** [stree-project-iota.vercel.app](https://stree-project-iota.vercel.app)
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">What It Does</th>
+    <th align="left">Stack</th>
+    <th align="left">Link</th>
+  </tr>
+  <tr>
+    <td valign="top"><strong>💼 HireMe AI</strong></td>
+    <td valign="top">AI-powered career copilot for resume improvement, profile review, and smarter job-search decisions.</td>
+    <td valign="top">Next.js<br />TypeScript<br />PostgreSQL<br />Gemini AI<br />OpenAI APIs</td>
+    <td valign="top"><a href="https://github.com/yumebhumi/ResumeAnalyserr">Repo</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>✈️ Rovara</strong></td>
+    <td valign="top">AI travel planner that generates multi-day itineraries, budgets, recommendations, and shareable trip plans.</td>
+    <td valign="top">Next.js<br />React<br />TypeScript<br />Clerk<br />Prisma<br />PostgreSQL<br />OpenAI</td>
+    <td valign="top"><a href="https://github.com/yumebhumi/rovara">Repo</a></td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>🩺 Clinico</strong></td>
+    <td valign="top">Healthcare platform connecting patients and professionals through a smoother digital experience and AI-assisted support.</td>
+    <td valign="top">Full stack web app<br />Authentication<br />AI assistance<br />Database workflows</td>
+    <td valign="top">Private / WIP</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>🛡️ Stree</strong></td>
+    <td valign="top">Women's safety platform with anonymous crime reporting, safety mapping, and community/resource access.</td>
+    <td valign="top">React<br />Tailwind CSS<br />Recoil<br />Leaflet<br />Node.js<br />Express<br />MongoDB</td>
+    <td valign="top"><a href="https://stree-project-iota.vercel.app">Live</a></td>
+  </tr>
+</table>
 
 ## GitHub Analytics
 
