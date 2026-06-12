@@ -66,14 +66,6 @@ AI-powered career workspace for resume analysis, GitHub review, and portfolio ge
 - Combines product UX, auth, persistence, and AI output in one system
 - Stack: Next.js, TypeScript, Tailwind CSS, Clerk, Neon Postgres, Drizzle, Gemini
 
-### [DisasterNet](https://github.com/AbhinavXJ/DisasterNet)
-Offline-first peer-to-peer communication system for low-connectivity and disaster-prone environments.
-
-- Designed for real-world constraints where internet access is unreliable
-- Uses mDNS for peer discovery and libp2p for local communication
-- Connects backend networking ideas with a usable frontend chat interface
-- Stack: Go, libp2p, React
-
 ## Build Style
 
 - Useful over flashy
