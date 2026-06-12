@@ -1,83 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f766e,50:14b8a6,100:f59e0b&text=Bhumika%20Choudhary&fontSize=44&fontAlignY=38&desc=Full-stack%20developer%20building%20AI-powered%20products%20with%20clarity%20and%20intent&descAlignY=58&animation=fadeIn&fontColor=ffffff" alt="Header banner" />
+# Bhumika Choudhary
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0F766E&center=true&vCenter=true&width=850&lines=Full-stack+developer;AI-powered+product+builder;Turning+ideas+into+useful+interfaces;Learning+fast%2C+shipping+better)](https://git.io/typing-svg)
+### Full-stack developer building AI-powered products with clear UX and practical engineering
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-AI%20Products-0f766e?style=for-the-badge" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript%20%7C%20Go-f59e0b?style=for-the-badge" alt="Stack badge" />
-  <img src="https://img.shields.io/badge/Mindset-Build%20Useful%20Things-111827?style=for-the-badge" alt="Mindset badge" />
+  <a href="https://github.com/yumebhumi">
+    <img src="https://img.shields.io/badge/GitHub-yumebhumi-f8fafc?style=for-the-badge&logo=github&logoColor=111827&labelColor=f8fafc&color=e2e8f0" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20Products-0f172a?style=for-the-badge&logoColor=white&color=0f766e" alt="Focus" />
+  <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript%20%7C%20Go-0f172a?style=for-the-badge&logoColor=white&color=1f2937" alt="Stack" />
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=900&color=E2E8F0&center=true&vCenter=true&width=720&lines=I+like+building+useful+things.;Clean+interfaces.+Strong+systems.;Shipping+better+projects%2C+one+iteration+at+a+time." alt="Typing intro" />
 </p>
 
 </div>
 
-## Hello
+---
 
-I build products that feel thoughtful on the surface and solid underneath. My work usually lives where AI features, good frontend experience, and practical backend engineering meet.
+## About
 
-```txt
-Name        : Bhumika Choudhary
-Focus       : Full-stack development, AI workflows, product building
-Current Arc : Sharpening backend depth and shipping stronger public projects
-Strengths   : React, Next.js, TypeScript, Go, practical problem-solving
-Approach    : Clear UX, useful features, steady iteration
-```
+I build products that try to be both useful and well-finished. Most of my work sits between AI features, frontend experience, and backend systems that make those experiences reliable.
 
-## Current Focus
-
-- Designing developer- and career-facing products with real utility
-- Building cleaner interfaces backed by reliable systems
-- Making my GitHub reflect the quality and direction of my work
+<table>
+  <tr>
+    <td><strong>Focus</strong></td>
+    <td>Full-stack development, AI workflows, product building</td>
+  </tr>
+  <tr>
+    <td><strong>Working With</strong></td>
+    <td>React, Next.js, TypeScript, Go, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><strong>Currently Improving</strong></td>
+    <td>Backend depth, system design, stronger public projects</td>
+  </tr>
+  <tr>
+    <td><strong>Approach</strong></td>
+    <td>Clear UX, useful features, steady iteration</td>
+  </tr>
+</table>
 
 ## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,go,postgres,git,github,vscode&theme=light" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,go,postgres,git,github,vscode&theme=dark" alt="Skill icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%26%20Next.js-14b8a6?style=flat-square" alt="Frontend badge" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%26%20Go-f59e0b?style=flat-square" alt="Backend badge" />
-  <img src="https://img.shields.io/badge/Data-Postgres%20%26%20Drizzle-0f766e?style=flat-square" alt="Data badge" />
-  <img src="https://img.shields.io/badge/Style-Clean%20and%20Purposeful-334155?style=flat-square" alt="Style badge" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%26%20Next.js-111827?style=flat-square&color=0f766e" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%26%20Go-111827?style=flat-square&color=1f2937" alt="Backend" />
+  <img src="https://img.shields.io/badge/Data-Postgres%20%26%20Drizzle-111827?style=flat-square&color=334155" alt="Data" />
+  <img src="https://img.shields.io/badge/Style-Clean%20and%20Purposeful-111827?style=flat-square&color=475569" alt="Style" />
 </p>
 
-## Featured Work
+## Featured Projects
 
-### HireMe AI
+### [HireMe AI](https://github.com/yumebhumi/ResumeAnalyserr)
 AI-powered career workspace for resume analysis, GitHub review, and portfolio generation.
 
-Why it stands out:
-- Built around an actual job-search workflow instead of isolated AI prompts
+- Built around an actual job-search workflow instead of one-off AI prompts
 - Analyzes resumes, reviews GitHub presence, and generates portfolio drafts
-- Connects product UX, authentication, persistence, and AI output in one experience
+- Combines product UX, auth, persistence, and AI output in one system
+- Stack: Next.js, TypeScript, Tailwind CSS, Clerk, Neon Postgres, Drizzle, Gemini
 
-Stack:
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Clerk
-- Neon Postgres
-- Drizzle ORM
-- Gemini
-
-Repository: [yumebhumi/ResumeAnalyserr](https://github.com/yumebhumi/ResumeAnalyserr)
-
-### DisasterNet
+### [DisasterNet](https://github.com/AbhinavXJ/DisasterNet)
 Offline-first peer-to-peer communication system for low-connectivity and disaster-prone environments.
 
-Why it stands out:
 - Designed for real-world constraints where internet access is unreliable
-- Uses local peer discovery through mDNS and peer-to-peer communication via libp2p
-- Balances backend networking concepts with a usable frontend chat interface
-
-Stack:
-- Go
-- libp2p
-- React
-
-Repository: [AbhinavXJ/DisasterNet](https://github.com/AbhinavXJ/DisasterNet)
+- Uses mDNS for peer discovery and libp2p for local communication
+- Connects backend networking ideas with a usable frontend chat interface
+- Stack: Go, libp2p, React
 
 ## Build Style
 
@@ -89,27 +84,23 @@ Repository: [AbhinavXJ/DisasterNet](https://github.com/AbhinavXJ/DisasterNet)
 ## GitHub Snapshot
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yumebhumi&show_icons=true&hide_border=true&theme=transparent&title_color=0f766e&icon_color=f59e0b&text_color=334155" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumebhumi&layout=compact&hide_border=true&theme=transparent&title_color=0f766e&text_color=334155" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yumebhumi&show_icons=true&hide_border=true&bg_color=00000000&title_color=f8fafc&text_color=cbd5e1&icon_color=14b8a6" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumebhumi&layout=compact&hide_border=true&bg_color=00000000&title_color=f8fafc&text_color=cbd5e1" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yumebhumi&hide_border=true&theme=transparent&ring=0f766e&fire=f59e0b&currStreakLabel=0f766e&sideNums=334155&currStreakNum=334155&sideLabels=334155&dates=64748b" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=yumebhumi&hide_border=true&background=00000000&ring=14b8a6&fire=f59e0b&currStreakLabel=f8fafc&sideNums=cbd5e1&currStreakNum=f8fafc&sideLabels=94a3b8&dates=64748b" alt="GitHub streak" />
 </div>
 
 ## Philosophy
 
-> I like building things that are easy to use, hard to break, and worth coming back to.
+> Build things that are easy to use, hard to break, and worth coming back to.
 
 ## Connect
 
 <p align="center">
   <a href="https://github.com/yumebhumi">
-    <img src="https://img.shields.io/badge/GitHub-yumebhumi-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+    <img src="https://img.shields.io/badge/GitHub-yumebhumi-f8fafc?style=for-the-badge&logo=github&logoColor=111827&labelColor=f8fafc&color=e2e8f0" alt="GitHub badge" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=yumebhumi&style=for-the-badge&color=0f766e" alt="Profile views" />
 </p>
-
-<div align="center">
-  <sub>Useful products. Better systems. Cleaner interfaces.</sub>
-</div>
