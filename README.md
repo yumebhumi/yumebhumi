@@ -94,5 +94,8 @@ AI-powered career workspace for resume analysis, GitHub review, and portfolio ge
   <a href="https://github.com/yumebhumi">
     <img src="https://img.shields.io/badge/GitHub-yumebhumi-f8fafc?style=for-the-badge&logo=github&logoColor=111827&labelColor=f8fafc&color=e2e8f0" alt="GitHub badge" />
   </a>
+  <a href="https://x.com/coldcoffeecoder">
+    <img src="https://img.shields.io/badge/X-@coldcoffeecoder-f8fafc?style=for-the-badge&logo=x&logoColor=111827&labelColor=f8fafc&color=e2e8f0" alt="X badge" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=yumebhumi&style=for-the-badge&color=0f766e" alt="Profile views" />
 </p>
