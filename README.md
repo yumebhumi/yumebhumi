@@ -141,6 +141,13 @@ Always happy to connect with builders, creators, and curious minds.
 - **Impact:** Turns messy trip planning into a structured experience with saved trips, rich travel context, and share/PDF utilities.
 - **Repo:** [github.com/yumebhumi/rovara](https://github.com/yumebhumi/rovara)
 
+### 🩺 Clinico
+
+**Healthcare platform** designed to connect patients and professionals with a smoother digital experience and AI-assisted support.
+
+- **Stack:** Full stack web architecture, authentication, AI assistance, database-backed workflows
+- **Impact:** Aims to simplify healthcare access, communication, and decision support in one connected product flow.
+
 ### 🛡️ Stree
 
 **Women's safety and support platform** focused on anonymous crime reporting, safer navigation, and access to tech resources and community guidance.
