@@ -129,46 +129,46 @@ Always happy to connect with builders, creators, and curious minds.
 <table>
   <tr>
     <th align="left">Project</th>
-    <th align="left">What It Does</th>
-    <th align="left">Stack</th>
-    <th align="left">Link</th>
+    <th align="left">Overview</th>
   </tr>
   <tr>
     <td valign="top"><strong>💼 HireMe AI</strong></td>
-    <td valign="top">AI-powered career copilot for resume improvement, profile review, and smarter job-search decisions.</td>
-    <td valign="top">Next.js<br />TypeScript<br />PostgreSQL<br />Gemini AI<br />OpenAI APIs</td>
     <td valign="top">
-      <a href="https://github.com/yumebhumi/ResumeAnalyserr">
-        <img src="https://img.shields.io/badge/Repo-0f172a?style=flat-square&logo=github&logoColor=white" alt="HireMe AI repo" />
-      </a>
+      AI-powered career copilot for resume improvement, profile review, and smarter job-search decisions.
+      <br /><br />
+      <strong>Stack:</strong> Next.js, TypeScript, PostgreSQL, Gemini AI, OpenAI APIs
+      <br />
+      <strong>Link:</strong> <a href="https://github.com/yumebhumi/ResumeAnalyserr">Repository</a>
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>✈️ Rovara</strong></td>
-    <td valign="top">AI travel planner that generates multi-day itineraries, budgets, recommendations, and shareable trip plans.</td>
-    <td valign="top">Next.js<br />React<br />TypeScript<br />Clerk<br />Prisma<br />PostgreSQL<br />OpenAI</td>
     <td valign="top">
-      <a href="https://github.com/yumebhumi/rovara">
-        <img src="https://img.shields.io/badge/Repo-0f172a?style=flat-square&logo=github&logoColor=white" alt="Rovara repo" />
-      </a>
+      AI travel planner that generates multi-day itineraries, budgets, recommendations, and shareable trip plans.
+      <br /><br />
+      <strong>Stack:</strong> Next.js, React, TypeScript, Clerk, Prisma, PostgreSQL, OpenAI
+      <br />
+      <strong>Link:</strong> <a href="https://github.com/yumebhumi/rovara">Repository</a>
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>🩺 Clinico</strong></td>
-    <td valign="top">Healthcare platform connecting patients and professionals through a smoother digital experience and AI-assisted support.</td>
-    <td valign="top">Full stack web app<br />Authentication<br />AI assistance<br />Database workflows</td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/WIP-f59e0b?style=flat-square&logoColor=white" alt="Clinico work in progress" />
+      Healthcare platform connecting patients and professionals through a smoother digital experience and AI-assisted support.
+      <br /><br />
+      <strong>Stack:</strong> Full stack web app, authentication, AI assistance, database-backed workflows
+      <br />
+      <strong>Status:</strong> Work in progress
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>🛡️ Stree</strong></td>
-    <td valign="top">Women's safety platform with anonymous crime reporting, safety mapping, and community/resource access.</td>
-    <td valign="top">React<br />Tailwind CSS<br />Recoil<br />Leaflet<br />Node.js<br />Express<br />MongoDB</td>
     <td valign="top">
-      <a href="https://stree-project-iota.vercel.app">
-        <img src="https://img.shields.io/badge/Live-0f766e?style=flat-square&logo=vercel&logoColor=white" alt="Stree live link" />
-      </a>
+      Women's safety platform with anonymous crime reporting, safety mapping, and community/resource access.
+      <br /><br />
+      <strong>Stack:</strong> React, Tailwind CSS, Recoil, Leaflet, Node.js, Express, MongoDB
+      <br />
+      <strong>Link:</strong> <a href="https://stree-project-iota.vercel.app">Live project</a>
     </td>
   </tr>
 </table>
