@@ -22,11 +22,29 @@
 
 ## Character Backstory
 
-I’m **Bhumika Choudhary**, a **B.Tech Information Technology undergraduate** building at the intersection of **full stack development**, **AI applications**, and **product thinking**. My public GitHub footprint across [`bhumika1534`](https://github.com/bhumika1534) and [`yumebhumi`](https://github.com/yumebhumi) shows a progression from JavaScript practice and early AI projects into more product-oriented work like **ResumeAnalyserr**, an AI-powered career workspace.
+Hey! I'm Bhumika 👋
 
-I work with **React.js, Next.js, Node.js, TypeScript, Firebase, MongoDB, PostgreSQL, and REST APIs**, and I enjoy turning practical ideas into polished software. I’m especially interested in **Gemini AI**, **OpenAI APIs**, agentic workflows, and building products that feel clean on the surface and reliable underneath. Alongside development, I keep sharpening my **DSA and problem-solving** skills to stay strong on fundamentals.
+I'm a B.Tech Information Technology student who enjoys building things that make people's lives a little easier. Most of my time is spent exploring the intersection of full-stack development, AI, and product building, turning random ideas into projects and learning something new with every commit.
 
-For recruiters: I bring a mix of **frontend polish, backend thinking, AI product curiosity, and fast iteration**. I care about building software that is not just technically functional, but genuinely useful.
+You'll usually find me working with React, Next.js, TypeScript, Node.js, Firebase, MongoDB, PostgreSQL, and AI tools like Gemini and OpenAI. Lately, I've been especially interested in AI-powered products, agentic workflows, and creating software that feels simple on the surface but solves real problems underneath.
+
+Outside of tech, I'm probably reading a book, learning Japanese, planning my next side project, or enjoying an overpriced cold coffee while convincing myself that this new idea will definitely be the one. ☕
+
+A few things about me:
+
+- 🌸 Building random things on the internet
+- 📚 Book lover and lifelong learner
+- 🇯🇵 Currently learning Japanese
+- ☕ Professional cold coffee enthusiast
+- 🚀 Big believer in learning by building
+- ✨ Trying to leave the internet a little cooler than I found it
+
+If you're interested in collaborating, discussing ideas, talking tech, books, anime, startups, or just saying hello, feel free to reach out.
+
+- 📩 Email: `your-email@example.com`
+- 🐦 X/Twitter: `@coldcoffeecoder`
+
+Always happy to connect with builders, creators, and curious minds.
 
 ## Current Focus
 
