@@ -4,7 +4,7 @@
 
 ### ☕ reading books, chasing dreams, building random things on the internet, and letting cold coffee influence far too many of my decisions.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F8FAFC&center=true&vCenter=true&width=900&lines=Building+AI-powered+products%2C+one+coffee+at+a+time.;Full+stack+developer+with+a+love+for+clean+UX+and+smart+systems.;Build.+Learn.+Ship.+Repeat." alt="Typing animation" />
+<sub>building AI-powered products, one coffee at a time.</sub>
 
 <br />
 
@@ -184,17 +184,13 @@ Always happy to connect with builders, creators, and curious minds.
   <img src="https://streak-stats.demolab.com?user=yumebhumi&theme=github-dark-blue&hide_border=true&background=00000000&ring=14B8A6&fire=F59E0B&currStreakLabel=F8FAFC" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yumebhumi&bg_color=000000&color=CBD5E1&line=14B8A6&point=F59E0B&area=true&hide_border=true" alt="Activity graph" />
-</div>
-
 ## LeetCode Progress
 
 I’m consistently using LeetCode to improve my **DSA, problem-solving speed, and interview thinking**. It’s a big part of how I strengthen fundamentals alongside product building.
 
 <div align="center">
   <a href="https://leetcode.com/u/yumebhumi/">
-    <img src="https://leetcard.jacoblin.cool/yumebhumi?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+    <img src="https://img.shields.io/badge/LeetCode-yumebhumi-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode profile" />
   </a>
 </div>
 
