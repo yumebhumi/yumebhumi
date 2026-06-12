@@ -41,7 +41,7 @@ A few things about me:
 
 If you're interested in collaborating, discussing ideas, talking tech, books, anime, startups, or just saying hello, feel free to reach out.
 
-- 📩 Email: `your-email@example.com`
+- 📩 Email: `bhumikastem15@gmail.com`
 - 🐦 X/Twitter: `@coldcoffeecoder`
 
 Always happy to connect with builders, creators, and curious minds.
