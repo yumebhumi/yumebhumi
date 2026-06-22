@@ -184,16 +184,6 @@ Always happy to connect with builders, creators, and curious minds.
   <img src="https://streak-stats.demolab.com?user=yumebhumi&theme=github-dark-blue&hide_border=true&background=00000000&ring=14B8A6&fire=F59E0B&currStreakLabel=F8FAFC" alt="GitHub streak" />
 </div>
 
-## LeetCode Progress
-
-I’m consistently using LeetCode to improve my **DSA, problem-solving speed, and interview thinking**. It’s a big part of how I strengthen fundamentals alongside product building.
-
-<div align="center">
-  <a href="https://leetcode.com/u/yumebhumi/">
-    <img src="https://leetcard.jacoblin.cool/yumebhumi?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
-  </a>
-</div>
-
 ## Profiles
 
 <div align="center">
@@ -203,9 +193,6 @@ I’m consistently using LeetCode to improve my **DSA, problem-solving speed, an
 </a>
 <a href="https://www.linkedin.com/in/bhumika-choudhary-891394243?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-Bhumika_Choudhary-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn profile" />
-</a>
-<a href="https://leetcode.com/u/yumebhumi/">
-  <img src="https://img.shields.io/badge/LeetCode-yumebhumi-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode profile" />
 </a>
 <a href="https://x.com/coldcoffeecoder">
   <img src="https://img.shields.io/badge/X-@coldcoffeecoder-111827?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
