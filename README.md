@@ -1,5 +1,7 @@
-- 👋 Hi, I'm Bhumika
-- ✦ I build full-stack and AI-powered products, one cold coffee at a time
-- 🧠 Currently exploring agentic AI and turning ideas into useful software
-- 🌱 Learning Japanese and getting better, one commit at a time
-- ↗ [Projects](https://github.com/yumebhumi?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/bhumika-choudhary-891394243) · [X](https://x.com/coldcoffeecoder) · [Email](mailto:bhumikastem15@gmail.com)
+👋 Hey, I'm Bhumika.
+
+☕ I write code, read books, and drink an unreasonable amount of cold coffee.
+
+💻 Mostly breaking things and trying to make something worth shipping.
+
+🇯🇵 Learning Japanese because apparently I needed another side quest.
